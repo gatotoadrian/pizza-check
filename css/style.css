@@ -1,0 +1,21 @@
+body{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+  background-image: url(./../images/485a36a350077b67d6ca337e50810af7.jpg);
+  /* background-repeat: no-repeat; */
+  /* background-size: cover; */
+  /* margin: 0; */
+  /* padding: 0; */
+  
+}
+.header{
+  text-align: center;
+  color: white;
+  text-decoration: underline;
+}
+.nav{
+  
+}
