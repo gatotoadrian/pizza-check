@@ -17,6 +17,7 @@ body{
   text-decoration: underline;
 }
 .navlink{
-  /* text-decoration: none; */
-  color: white;
+  text-decoration: none;
+  color: rgb(172, 224, 28);
+  padding: 20px;
 }
