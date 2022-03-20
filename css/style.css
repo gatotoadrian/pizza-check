@@ -16,6 +16,7 @@ body{
   color: white;
   text-decoration: underline;
 }
-.nav{
-  
+.navlink{
+  /* text-decoration: none; */
+  color: white;
 }
