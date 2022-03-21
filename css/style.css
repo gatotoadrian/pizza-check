@@ -9,6 +9,12 @@ body{
   padding: 0;
   
 }
+.nav{
+  display: flex;
+  align-items: center;
+  justify-content: align;
+  /* padding: 20px; */
+}
 .header{
   text-align: center;
   color: white;
@@ -208,9 +214,11 @@ div.inputs{
     .ph{
         font-size: x-small;
     }
-    table{
+.table{
         width: 100%;
-        font-size: small;
+        font-size: large;
+        color: #ac3030;
+        background-color: white;
     }
 }
 .color{
