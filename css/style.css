@@ -22,12 +22,12 @@ body{
   padding: 40px;
 }
 
-.@@ -3,34 +3,37 @@ body{
+/* .@@ -3,34 +3,37 @@ body{
     padding: 0;
     box-sizing: border-box;
     font-family: 'Merienda', cursive !important;
 
-}
+} */
 
 .container{
     background-image: url("./../images/flour4.jpg");
