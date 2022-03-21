@@ -69,7 +69,7 @@ $(document).ready(function(){
                     toppingPrice = 160;
                 }
             }
-            console.log("Topping costs " + toppingPrice);
+            // console.log("Topping costs " + toppingPrice);
             console.log("Topping costs " + toppingPrice); //test
 
             //crust
@@ -107,7 +107,7 @@ $(document).ready(function(){
             console.log(tot);
             var alltotal = 0;
             var cusorder = "<tr><td>" + asize + ": " + sizePrice + "</td><td>" + atopping + ": " + toppingPrice + "</td><td>" + acrust + ": " + crustPrice + "</td><td class='kes'>" + tot + "</td><td><button class='btn btn-danger btn-sm'>DEL</button></td><tr>" //here
-            console.log(tot); //test
+            // console.log(tot); //test
             var cusorder = "<tr><td>" + asize + ": " + sizePrice + "</td><td>" + atopping + ": " + toppingPrice + "</td><td>" + acrust + ": " + crustPrice + "</td><td class='kes'>" + tot + "</td><td><button class='btn btn-danger btn-sm'>DEL</button></td><tr>" 
             $("#customerOrder tbody").append(cusorder);
             $("#ordernow").html("Add another");
