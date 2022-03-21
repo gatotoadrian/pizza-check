@@ -225,3 +225,7 @@ div.inputs{
 
 color: aliceblue;
 }
+.total{
+  color: azure;
+  visibility: visible;
+}
