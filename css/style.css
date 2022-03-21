@@ -19,7 +19,7 @@ body{
 .navlink{
   text-decoration: none;
   color: rgb(172, 224, 28);
-  padding: 20px;
+  padding: 40px;
 }
 
 .@@ -3,34 +3,37 @@ body{
@@ -160,9 +160,10 @@ form textarea{
     font-family: 'Paprika', cursive !important;
 }
 
-/* form */
-form h4{
-    color: black;
+/* form */                            <option value="7">crispy-thin</option>
+                            <option value="8">extreme-cheese</option>
+                            <option value="9">stuffed</option>
+
 @@ -147,12 +158,10 @@ input, textarea{
 }
 div.inputs{
@@ -183,7 +184,7 @@ div.inputs{
     margin-left: auto !important;
     margin-right: auto !important;
     /* justify-content: center; */
-    color: white !important;
+    color: white
     display: none;
     /* text-align: center; */
 }
