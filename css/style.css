@@ -5,10 +5,8 @@ body{
 }
 body{
   background-image: url(./../images/dc7071957980fe9881fec17ccd966770.jpg);
-  /* background-repeat: no-repeat; */
-  /* background-size: cover; */
-  /* margin: 0; */
-  /* padding: 0; */
+  margin: 0;
+  padding: 0;
   
 }
 .header{
@@ -21,13 +19,6 @@ body{
   color: rgb(172, 224, 28);
   padding: 40px;
 }
-
-/* .@@ -3,34 +3,37 @@ body{
-    padding: 0;
-    box-sizing: border-box;
-    font-family: 'Merienda', cursive !important;
-
-} */
 
 .container{
     background-image: url("./../images/flour4.jpg");
@@ -55,31 +46,13 @@ body{
     /* border: ; */
 }
 
-.pizzaimg{
-    width: 50vw;
-    height: 40vh;
-    border: 2px solid white;
-}
 
-.pizzamsg{
-    position: absolute;
-    left: 0;
-@@ -39,77 +42,84 @@ body{
-    height: 40vh;
-    width: 20vw;
-}
+
 
 .sec2{
     width: 60vw;
     text-align: center;
 
-}
-
-.ourpizza{
-    width: 60vw;
-    margin: auto;
-    display: flex;
-    justify-content: space-around;
 }
 
 .ourpizzaimg{
