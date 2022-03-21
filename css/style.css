@@ -4,7 +4,7 @@ body{
   box-sizing: border-box;
 }
 body{
-  background-image: url(./../images/dc7071957980fe9881fec17ccd966770.jpg);
+  background-image: url(./../images/252d67a42b8b48fc60d1c5d2c4ab9ec0.jpg);
   margin: 0;
   padding: 0;
   
@@ -46,7 +46,14 @@ body{
     box-shadow: 0 25px 0 -23px #5CC7A8;
 } 
 
-
+.pizzamsg{
+    position: absolute;
+    left: 0;
+    background-color: rgba(36, 35, 35, 0.6);
+    top: 0;
+    height: 40vh;
+    width: 20vw;
+}
 
 
 
