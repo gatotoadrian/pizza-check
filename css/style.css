@@ -18,6 +18,7 @@ body{
   text-decoration: none;
   color: rgb(172, 224, 28);
   padding: 40px;
+  text-align: center;
 }
 
 .container{
@@ -27,7 +28,7 @@ body{
     color: white;
     text-align: center;
 
-    text-align: center;    
+    /* text-align: center;     */
 }
 
 .start{
@@ -39,12 +40,7 @@ body{
     box-shadow: 0 25px 0 -23px #5CC7A8;
 } 
 
-.pizzaimgmsg{
-    width: 50vw;
-    margin: auto;
-    position: relative;
-    /* border: ; */
-}
+
 
 
 
