@@ -15,7 +15,7 @@ $(document).ready(function(){
         $("#ordernow").click(function(e){
             $("table").show();
             $("#checkout").show();
-            console.log("seen");
+            // console.log("seen");
             var asize = $("#size").val();    
             var atopping = $("#topping").val();
             var acrust = $("#crust").val();
@@ -36,7 +36,7 @@ $(document).ready(function(){
             }else if (asize === "large"){
                 sizePrice = 800;
             }
-            console.log("Cost is " + sizePrice);
+            // console.log("Cost is " + sizePrice);
             console.log("Cost is " + sizePrice); //test
 
             //topping
@@ -203,3 +203,5 @@ $(document).ready(function(){
             })        
 
         })
+
+    // })
